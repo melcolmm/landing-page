@@ -70,8 +70,8 @@ body {
     display: flex;
     justify-content: center;
 
-    border: red solid;
-    border-radius: 2px;
+    /* border: red solid;
+    border-radius: 2px; */
   }
 
   .s1-content {
@@ -84,8 +84,8 @@ body {
     padding: 20px;
     flex-shrink: 1;
 
-    border: lime solid;
-    border-radius: 2px;
+    /* border: lime solid;
+    border-radius: 2px; */
   }
 
   .s1-image {
